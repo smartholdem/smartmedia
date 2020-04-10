@@ -3,7 +3,7 @@
 
 # Icon SmartHoldem Examples
 
-`https://codepen.io/pen/?&editable=true`
+`https://codepen.io/technol0g/pen/RwWwOMd`
 
 # Q Usage
 
